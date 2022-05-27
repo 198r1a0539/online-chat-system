@@ -1,0 +1,2 @@
+# online-chat-system
+This is a simple chat program with a server and can have many clients. The server needs to be started first and clients can be connected later. Simple Chat Room provides bidirectional communication between client and server. It enables users to seamlessly communicate with each other. The user can chat using this chat application. If the user at the other end is active then they can start a chat session. The chat is recorded in this application. It is designed and implemented using HTML, PHP, and CSS.
